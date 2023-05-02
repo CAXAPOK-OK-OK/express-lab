@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "express_lab",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "serve": "nodemon app.js",
+    "start": "node add.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["express"],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
